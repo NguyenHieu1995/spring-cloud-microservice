@@ -5,6 +5,10 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/noka-eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/noka-image-service/pom.xml" />
+        <option value="$PROJECT_DIR$/noka-gallery-service/pom.xml" />
+        <option value="$PROJECT_DIR$/noka-zuul-server/pom.xml" />
       </list>
     </option>
   </component>
