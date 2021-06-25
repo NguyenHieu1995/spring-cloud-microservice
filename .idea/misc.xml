@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/noka-image-service/pom.xml" />
         <option value="$PROJECT_DIR$/noka-gallery-service/pom.xml" />
         <option value="$PROJECT_DIR$/noka-zuul-server/pom.xml" />
+        <option value="$PROJECT_DIR$/noka-auth-service/pom.xml" />
       </list>
     </option>
   </component>

@@ -10,12 +10,14 @@
         <module name="noka-eureka-server" />
         <module name="noka-zuul-server" />
         <module name="noka-gallery-service" />
+        <module name="noka-auth-service" />
         <module name="noka-image-service" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="noka-auth-service" options="-parameters" />
       <module name="noka-eureka-server" options="-parameters" />
       <module name="noka-gallery-service" options="-parameters" />
       <module name="noka-image-service" options="-parameters" />

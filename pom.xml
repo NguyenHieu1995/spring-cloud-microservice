@@ -18,6 +18,8 @@
         <module>noka-eureka-server</module>
         <module>noka-image-service</module>
         <module>noka-gallery-service</module>
+        <module>noka-zuul-server</module>
+        <module>noka-auth-service</module>
     </modules>
 
     <properties>
