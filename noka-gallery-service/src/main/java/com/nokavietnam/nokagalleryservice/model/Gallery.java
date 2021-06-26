@@ -14,6 +14,11 @@ import java.util.List;
 @AllArgsConstructor
 @NoArgsConstructor
 public class Gallery {
+
     private Integer id;
     private List<Object> images;
+
+    public Gallery(Integer id) {
+        this.id = id;
+    }
 }
